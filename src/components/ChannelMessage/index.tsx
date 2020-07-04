@@ -1,12 +1,11 @@
 import React from   'react';
-import { Container, Avatar, Message, Header, Content, Mention } from './styles';
+import { Container, Avatar, Message, Header, Content} from './styles';
 import me from '../../assets/me.jpg';
 import daniel from '../../assets/daniel.jpg';
 import filipez from '../../assets/filipez.jpg';
 import junio from '../../assets/pp.jpg';
 import sasa from '../../assets/sasa.jpg';
 
-export { Mention } from './styles';
 
 export interface Props {
     author: string;
