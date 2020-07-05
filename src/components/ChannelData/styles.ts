@@ -36,7 +36,6 @@ export const InputWrapper = styled.div`
     width: 100%;
     height: 52px;
     background:  var(--secondary);
-    padding: 0 8px;
     display: flex;
     align-items: center;   
  `;
