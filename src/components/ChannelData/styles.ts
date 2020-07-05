@@ -34,10 +34,10 @@ export const Messages = styled.div`
 
 export const InputWrapper = styled.div`
     width: 100%;
-    height: 46px;
+    height: 100px;
     background:  var(--secondary);
     display: flex;
-    align-items: center;   
+    justify-content: center;  
  `;
 
 export const Input = styled.input`
