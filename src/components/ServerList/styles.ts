@@ -7,7 +7,7 @@ export const Container = styled.div`
     align-items: center;
     flex-direction: column;
     padding: 11px 0;
-    max-height: 100vh;
+    height: 100vh;
     overflow-y: scroll;
 
     background-color: var(--tertiary);
