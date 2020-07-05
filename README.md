@@ -21,5 +21,5 @@ Treinando e aperfeiçoando tecnologias.
 1) Abra a pasta em sua plataforma de desenvolvimento </br>
 2) Abra o terminal e execute "npm install"</br>
 3) Em seguida, execute o comando "npm start"</br>
-4) Caso não aconteça automaticamente, abra em algum navegador de sua escolha o localhost:3000/ e visualize a aplicação.
+4) Caso não aconteça automaticamente, abra em algum navegador </br> de sua escolha o localhost:3000/ e visualize a aplicação.
 </div>
