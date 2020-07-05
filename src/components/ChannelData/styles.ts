@@ -7,7 +7,7 @@ export const Container = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: calc(100vh - 52px);
+    height: calc(100vh - 46px) ;
 
     background-color: var(--primary);
 `;
@@ -35,11 +35,10 @@ export const Messages = styled.div`
 export const InputWrapper = styled.div`
     width: 100%;
     height: 52px;
-    align-self: bottom;
+    padding: 0 8px;
     background:  var(--secondary);
     display: flex;
     align-items: center;
-    justify-content: bottom;
 
  `;
 
