@@ -34,7 +34,7 @@ export const Messages = styled.div`
 
 export const InputWrapper = styled.div`
     width: 100%;
-    height: 0px;
+    height: 60px;
     background:  var(--secondary);
     display: flex;
     align-items: center;   
