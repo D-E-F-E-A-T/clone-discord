@@ -14,7 +14,7 @@ Treinando e aperfeiçoando tecnologias.
 <h5><i>Prévia disponível em: <a href="https://discord-clone-marim.netlify.app/">https://discord-clone-marim.netlify.app/</a> <i></h5>
 </div>
 
-<div align="center">
+<div>
   
 # <span>&#9997;</span> Para reprodução em sua máquina
 </br>
