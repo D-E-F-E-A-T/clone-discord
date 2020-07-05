@@ -7,7 +7,7 @@ export const Container = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: calc(100vh - 42px -56px );
+    height: 100vh;
 
     background-color: var(--primary);
 `;
@@ -16,6 +16,7 @@ export const Messages = styled.div`
 
     display: flex;
     flex-direction: column;
+    height: calc(100vh - 42px -56px );
 
     overflow-y: scroll;
 
